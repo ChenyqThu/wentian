@@ -226,4 +226,95 @@ experts:
     trigger_keywords: [成事, 审美, 管理方法论, 文字, 简洁, 翻译腔, 做事]
     avoid: [技术实现, 投资理财, 宏观经济]
     quote: "成事是干出来的，不是说出来的。"
+
+  - id: ilya
+    name: Ilya Sutskever
+    name_en: Ilya Sutskever
+    aliases: [Ilya, 伊尔亚]
+    source: alchaincyf/nuwa-skill
+    domain: [AI安全, scaling规律, 深度学习研究, 研究品味, AGI]
+    trigger_keywords: [AI安全, scaling, 深度学习, 神经网络, 研究方向, AGI风险, 对齐]
+    avoid: [商业模式, 管理, 投资理财]
+    quote: "The thing that makes intelligence special is that it can generalize."
+
+  - id: bezos
+    name: 贝佐斯
+    name_en: Jeff Bezos
+    aliases: [贝佐斯, Jeff Bezos]
+    source: panmax/nuwa-skill
+    domain: [长期主义, 客户至上, Day1思维, 飞轮效应, 非共识决策]
+    trigger_keywords: [长期主义, 客户至上, Day1, 飞轮, 匿名投入, 反向工作, 两类决策]
+    avoid: [人文哲学, 技术实现, 快速路径]
+    quote: "It's always Day 1."
+
+  - id: buffett
+    name: 巴菲特
+    name_en: Warren Buffett
+    aliases: [巴菲特, 波克德, Warren Buffett, 奥马哈的神毕]
+    source: panmax/nuwa-skill
+    domain: [价值投资, 长期持有, 护城河, 能力圈, 尺度人
+]
+    trigger_keywords: [价值投资, 护城河, 长期持有, 能力圈, 复利, 安全边际, 大股投资, 企业结构]
+    avoid: [科技前沿, AI, 加密货币, 早期创业]
+    quote: "Be fearful when others are greedy, and greedy when others are fearful."
+
+  - id: sunzi
+    name: 孙子
+    name_en: Sun Tzu
+    aliases: [孙子, 孙武, 兵法]
+    source: panmax/nuwa-skill
+    domain: [战略思维, 博弈论, 研判, 不战而胜, 气势]
+    trigger_keywords: [战略, 战术, 博弈, 气势, 知己知彼, 不战而胜, 章法, 策略布局]
+    avoid: [现代投资, 技术实现, 具体业务操作]
+    quote: "知己知彼，百战不殆。"
+
+  - id: liguangyao
+    name: 李光耀
+    name_en: Lee Kuan Yew
+    aliases: [李光耀, LKY]
+    source: panmax/nuwa-skill
+    domain: [治国实用主义, 制度设计, 经济发展, 精英治理]
+    trigger_keywords: [治国, 制度, 实用主义, 新加坡, 精英, 组织建设, 国家竞争力]
+    avoid: [技术创业, 金融投资, 文学审美]
+    quote: "I am often accused of interfering in the private lives of citizens. Yes, if I did not, Singapore would not be what it is today."
+
+  - id: grove
+    name: 安迪·格鲁夫
+    name_en: Andy Grove
+    aliases: [格鲁夫, Andy Grove, 安迪格鲁夫]
+    source: panmax/nuwa-skill
+    domain: [偏执狂, 战略转折点, OKR, 危机管理, 高强度管理]
+    trigger_keywords: [偏执狂, OKR, 战略转折点, 危机, 高强度, 组织管理, 绩效管理, Intel]
+    avoid: [产品设计, 投资理财, 技术实现]
+    quote: "Only the paranoid survive."
+
+  - id: drucker
+    name: 德鲁克
+    name_en: Peter Drucker
+    aliases: [德鲁克, Peter Drucker]
+    source: panmax/nuwa-skill
+    domain: [管理学, 知识工作者, 目标管理, 组织设计]
+    trigger_keywords: [管理, 知识工作者, 目标管理, 组织, 领导力, 效能, 决策]
+    avoid: [技术实现, 投资标的, 消费者行为]
+    quote: "Management is doing things right; leadership is doing the right things."
+
+  - id: wangxiaobo
+    name: 王小波
+    name_en: Wang Xiaobo
+    aliases: [王小波]
+    source: panmax/nuwa-skill
+    domain: [自由, 理性, 黑色幽默, 批判性思维, 文学]
+    trigger_keywords: [自由, 理性, 黑色幽默, 批判, 趣味, 文学创作, 環境与个人]
+    avoid: [商业模式, 投资理财, 技术实现]
+    quote: "人所具有的一切，不外乎两些：理性的聽命和情感的对象。"
+
+  - id: aurelius
+    name: 马可·奥勒留
+    name_en: Marcus Aurelius
+    aliases: [奥勒留, Marcus Aurelius, 沉思录]
+    source: panmax/nuwa-skill
+    domain: [斯多葛哲学, 自我修炼, 逆境定力, 决策再平静]
+    trigger_keywords: [斯多葛, 自我修炼, 内心宁静, 逆境, 情绪控制, 沉思录, 当下]
+    avoid: [商业竞争, 投资, 技术]
+    quote: "You have power over your mind, not outside events. Realize this, and you will find strength."
 ```
