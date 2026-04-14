@@ -250,11 +250,10 @@ experts:
   - id: buffett
     name: 巴菲特
     name_en: Warren Buffett
-    aliases: [巴菲特, 波克德, Warren Buffett, 奥马哈的神毕]
-    source: panmax/nuwa-skill
-    domain: [价值投资, 长期持有, 护城河, 能力圈, 尺度人
-]
-    trigger_keywords: [价值投资, 护城河, 长期持有, 能力圈, 复利, 安全边际, 大股投资, 企业结构]
+    aliases: [巴菲特, Warren Buffett, 奥马哈先知]
+    source: panmax/nuwa-skill (adapted to v2)
+    domain: [价值投资, 长期持有, 护城河, 能力圈, 复利]
+    trigger_keywords: [价值投资, 护城河, 长期持有, 能力圈, 复利, 安全边际, 伯克希尔, 企业价值]
     avoid: [科技前沿, AI, 加密货币, 早期创业]
     quote: "Be fearful when others are greedy, and greedy when others are fearful."
 
